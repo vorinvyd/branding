@@ -1,0 +1,10 @@
+{
+	"homepage": "https://vorinvyd.fun",
+	"1.19.4": {
+		"0.0.1": "initial drop"
+	},
+	"promos": {
+		"1.19.4-latest": "0.0.1",
+		"1.19.4-recommended": "0.0.1"
+	}
+}
